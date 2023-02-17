@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 	jsoniter "github.com/json-iterator/go"
-	"github.com/micro/go-micro/client"
+	"github.com/micro/go-micro/v3/client"
 	"go.uber.org/zap"
 	"io"
 	"io/ioutil"
